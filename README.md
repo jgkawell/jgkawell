@@ -1,16 +1,14 @@
-## Hi there 👋
+## Hi there, I'm Jack 👋
 
-<!--
-**jgkawell/jgkawell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I work on distributed systems in their many forms. I enjoy traversing the stack from IoT hardware up to global-scale clouds.
 
-Here are some ideas to get you started:
+Currently working on [Draft](https://github.com/steady-bytes/draft).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Previously worked at [Fluid Truck](https://www.fluidtruck.com/) and [Circadence](https://circadence.com/).
+
+Other tidbits:
+
+- 🚀 Bootstrapping *Home Cloud* (ask me more about this later 😉)
+- 💻 Passionate about self-hosting
+- 🎓 Currently learning NixOS
+- ⚡ In love with Golang

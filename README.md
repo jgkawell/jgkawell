@@ -11,4 +11,4 @@ Other tidbits:
 - 🚀 Bootstrapping [Home Cloud](https://home-cloud.io)
 - 💻 Passionate about self-hosting
 - 🎓 Currently learning NixOS
-- ⚡ In love with Golang
+- ⚡ In love with Golang, increasingly interested in Rust

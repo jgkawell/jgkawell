@@ -2,7 +2,7 @@
 
 I work on distributed systems in their many forms. I enjoy traversing the stack from IoT hardware up to global-scale clouds.
 
-Currently working on [Draft](https://github.com/steady-bytes/draft).
+Currently working on [Draft](https://github.com/steady-bytes/draft) and [Home Cloud](https://home-cloud.io).
 
 Previously worked at [Fluid Truck](https://www.fluidtruck.com/) and [Circadence](https://circadence.com/).
 

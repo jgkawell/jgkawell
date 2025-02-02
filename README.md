@@ -8,7 +8,7 @@ Previously worked at [Fluid Truck](https://www.fluidtruck.com/) and [Circadence]
 
 Other tidbits:
 
-- 🚀 Bootstrapping [Home Cloud](https://home-cloud.io)
+- 🚀 Bootstrapping [Home Cloud](https://home-cloud.io) and [Steady Bytes](https://steady-bytes.com)
 - 💻 Passionate about self-hosting
 - 🎓 Currently learning NixOS
 - ⚡ In love with Golang, increasingly interested in Rust
